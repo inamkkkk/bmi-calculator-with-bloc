@@ -1,0 +1,31 @@
+# Dart/Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+*.iml
+/android/build
+/ios/Podfile.lock
+/build/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# IntelliJ related #
+######################
+*.idea
+
+# Logs and databases #
+#######################
+*.log
+*.sqlite
+*.db
+
+# Packages #
+############
+.packages
+
+# Environment Variables
+.env
